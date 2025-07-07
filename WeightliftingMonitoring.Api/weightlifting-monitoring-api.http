@@ -1,0 +1,8 @@
+@weightlifting_monitoring_api_HostAddress = http://localhost:5194
+
+GET {{weightlifting_monitoring_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+
+
+###
